@@ -14,11 +14,11 @@
 
 ###
 
-<h2 align="center">MY TOP LANGUAGES</h2>
+<h2 align="left">MY TOP LANGUAGES</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
@@ -34,11 +34,11 @@
 
 ###
 
-<h2 align="center">MY TOOLS</h2>
+<h2 align="left">MY TOOLS</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -52,11 +52,11 @@
 
 ###
 
-<h2 align="center">MY OTHER LANGUAGES</h2>
+<h2 align="left">MY OTHER LANGUAGES</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
