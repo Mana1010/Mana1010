@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning more about MERN stack<br>🎯 Goals: Getting an internship as a software engineer</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning more about MERN stack and MySQL<br>🎯 Goals: Getting an internship as a software engineer</p>
 
 ###
 
