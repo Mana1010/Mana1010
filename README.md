@@ -10,15 +10,15 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning more about MERN stack especially Nextjs<br>🎯 Goals: Getting an internship as a software engineer</p>
+<h5 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning more about MERN stack<br>🎯 Goals: Getting an internship as a software engineer</h5>
 
 ###
 
-<h2 align="left">MY TOP LANGUAGES</h2>
+<h2 align="center">MY TOP LANGUAGES</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
@@ -30,15 +30,17 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
 </div>
 
 ###
 
-<h2 align="left">MY TOOLS</h2>
+<h2 align="center">MY TOOLS</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -52,11 +54,11 @@
 
 ###
 
-<h2 align="left">MY OTHER LANGUAGES</h2>
+<h2 align="center">MY OTHER LANGUAGES</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
