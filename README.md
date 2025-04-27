@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning more about MERN stack<br>🎯 Goals: Getting an internship as a software engineer</h5>
+<h5 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning about redis, webRTC and more about real time<br>🎯 Goals: Getting an internship as a software engineer</h5>
 
 ###
 
@@ -30,6 +30,10 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
 </div>
