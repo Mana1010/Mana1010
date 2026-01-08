@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning about redis, webRTC and more about real time<br>🎯 Goals: Getting an internship as a software engineer</h5>
+<h5 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning about AI chatbot integraton<br>🎯 Goals: Getting an internship as a software engineer</h5>
 
 ###
 
